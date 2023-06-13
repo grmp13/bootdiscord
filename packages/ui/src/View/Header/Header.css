@@ -1,0 +1,31 @@
+
+.headercolor{
+    height: 10vh;
+    background-color: #13121b !important;
+    border-radius: 0px 0px 0px 35px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+li{
+    display: inline;
+}
+.aheader:hover{
+    color: #E0015E;
+}
+.active{
+    color: #E0015E;
+}
+a{
+    font-family: 'Inter', sans-serif;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+p{
+    font-family: 'Inter', sans-serif; 
+}

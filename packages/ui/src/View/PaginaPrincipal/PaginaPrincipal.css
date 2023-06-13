@@ -1,0 +1,83 @@
+.divbackground{
+    position: relative;
+    width: 99vw;
+    height: 80vh;
+    background-image: url("/img/background.png");
+    background-position: 50% 87%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.degrade{
+    position: relative;
+    width: 99vw;
+    height: 2400px;
+    background-image: url("/img/degrade2.png");
+    background-position: 100% -0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.teste{
+    display: flex;
+    align-items: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.divimagelogo{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.divimagelogo2{
+    margin-right: 5%;
+    margin-left: 8%;
+}
+.divletra{
+    max-width: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.divletra2{
+    max-width: 20%;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.divbotao{
+    background-color: #2755EE;
+    height: 8vh;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pdiscord{
+    font-size: 20px;
+}
+.divdiscord{
+    max-width: 60%;
+    text-align: center;
+}
+.h11{
+    font-family: 'Gemunu Libre', sans-serif;
+    color: white;
+    font-size:50px;
+}
+.h12{
+    font-family: 'Gemunu Libre', sans-serif;
+    color: white;
+    font-size:30px;
+}
+.p11{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: medium;
+}
+.p12{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 18px;
+}
+.ajustetexto{
+    border: solid 1px white;
+    width: 30%;
+    text-align: start;
+}
